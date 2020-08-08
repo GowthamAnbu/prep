@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "prep-fb614": {
+      "hosting": {
+        "prep": [
+          "prep-fb614"
+        ]
+      }
+    }
+  }
+}
